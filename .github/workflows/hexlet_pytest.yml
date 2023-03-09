@@ -1,4 +1,4 @@
-# file: .github/workflows/hello-world.yml
+# file: .github/workflows/hexlet_pytest.yml
 name: hexlet_pytest
 # on – определяет события, которые запускают воркфлоу
 on: push
