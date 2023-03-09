@@ -1,2 +1,2 @@
 ### Github Actions:
-https://github.com/dim4ic/hexlet_pytest/actions/workflows/<WORKFLOW_FILE>/badge.svg
+![example workflow](https://github.com/dim4ic/hexlet_pytest/actions/workflows/main.yml/badge.svg)(https://github.com/dim4ic/hexlet_pytest/actions)
